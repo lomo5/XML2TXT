@@ -1,0 +1,30 @@
+<annotation>
+	<folder>youtube</folder>
+	<filename>11461.bmp</filename>
+	<source>
+		<database>The PALSY Database</database>
+		<annotation>PALSY </annotation>
+		<image>flickr</image>
+		<image>flickr</image>
+		<flickrid>341012865</flickrid>
+	</source>
+	<owner>
+		<flickrid>Fried Camels</flickrid>
+		<name>Jinky the Fruit Bat</name>
+	</owner>
+	<size>
+		<width>70</width>
+		<height>134</height>
+		<depth>3</depth>
+	</size>	<segmented>0</segmented>
+	<object>
+		<name>StrongPalsy_Mouth</name>
+		<pose>Left</pose>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>70</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>
